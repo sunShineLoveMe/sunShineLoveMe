@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/ai-applications.svg" alt="AI Applications — From models to working products. LLM, RAG, Agents and Voice." width="100%" />
+  <img src="./assets/chris-3d-banner.jpg" alt="Chris — AI Application Developer. 3D chrome and blue glass artwork. LLM, RAG, Agents and Voice." width="100%" />
 </p>
 
-# 大大 · AI 应用开发者
+# Chris · AI 应用开发者
 
 把大模型接入具体业务，做出能操作、能验证的应用。从文档与知识检索、Agent 工作流，到语音交互和业务工作台，主要使用 **Python + TypeScript** 完成前后端开发与模型集成。
 
